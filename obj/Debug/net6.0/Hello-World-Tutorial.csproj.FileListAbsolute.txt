@@ -1,0 +1,15 @@
+/Users/ivelissemandato/Projects/Hello-World-Tutorial/Hello-World-Tutorial/bin/Debug/net6.0/Hello-World-Tutorial
+/Users/ivelissemandato/Projects/Hello-World-Tutorial/Hello-World-Tutorial/bin/Debug/net6.0/Hello-World-Tutorial.deps.json
+/Users/ivelissemandato/Projects/Hello-World-Tutorial/Hello-World-Tutorial/bin/Debug/net6.0/Hello-World-Tutorial.runtimeconfig.json
+/Users/ivelissemandato/Projects/Hello-World-Tutorial/Hello-World-Tutorial/bin/Debug/net6.0/Hello-World-Tutorial.dll
+/Users/ivelissemandato/Projects/Hello-World-Tutorial/Hello-World-Tutorial/bin/Debug/net6.0/Hello-World-Tutorial.pdb
+/Users/ivelissemandato/Projects/Hello-World-Tutorial/Hello-World-Tutorial/obj/Debug/net6.0/Hello-World-Tutorial.csproj.AssemblyReference.cache
+/Users/ivelissemandato/Projects/Hello-World-Tutorial/Hello-World-Tutorial/obj/Debug/net6.0/Hello-World-Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivelissemandato/Projects/Hello-World-Tutorial/Hello-World-Tutorial/obj/Debug/net6.0/Hello-World-Tutorial.AssemblyInfoInputs.cache
+/Users/ivelissemandato/Projects/Hello-World-Tutorial/Hello-World-Tutorial/obj/Debug/net6.0/Hello-World-Tutorial.AssemblyInfo.cs
+/Users/ivelissemandato/Projects/Hello-World-Tutorial/Hello-World-Tutorial/obj/Debug/net6.0/Hello-World-Tutorial.csproj.CoreCompileInputs.cache
+/Users/ivelissemandato/Projects/Hello-World-Tutorial/Hello-World-Tutorial/obj/Debug/net6.0/Hello-World-Tutorial.dll
+/Users/ivelissemandato/Projects/Hello-World-Tutorial/Hello-World-Tutorial/obj/Debug/net6.0/refint/Hello-World-Tutorial.dll
+/Users/ivelissemandato/Projects/Hello-World-Tutorial/Hello-World-Tutorial/obj/Debug/net6.0/Hello-World-Tutorial.pdb
+/Users/ivelissemandato/Projects/Hello-World-Tutorial/Hello-World-Tutorial/obj/Debug/net6.0/Hello-World-Tutorial.genruntimeconfig.cache
+/Users/ivelissemandato/Projects/Hello-World-Tutorial/Hello-World-Tutorial/obj/Debug/net6.0/ref/Hello-World-Tutorial.dll
